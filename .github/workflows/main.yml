@@ -23,3 +23,6 @@ jobs:
       - name: Deploy to S3
         run: |
           aws s3 sync . s3://networking-dojo.com --delete
+      - name: Create Cache Invalidation
+        run: |
+          aws cloudfront create-invalidation --distribution-id EDN7CFGSQPCYJ --paths "/*"
