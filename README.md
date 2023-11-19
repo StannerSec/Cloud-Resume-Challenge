@@ -4,6 +4,10 @@
 
 The Cloud Resume Project is a hands-on initiative designed to help individuals build and showcase their cloud computing skills through the creation of a professional resume website hosted on the cloud. This project provides a practical and tangible way for participants to demonstrate their expertise in cloud technologies and gain valuable experience in deploying and managing web applications.
 
+## Architecture
+
+![image](https://github.com/stanner834/Cloud-Resume-Challenge/assets/147266927/82051679-dbc0-43b7-9f70-7da7c196d16d)
+
 ## Features
 
 - **Serverless Architecture:** Leverage serverless computing services like AWS Lambda to handle dynamic content generation, resulting in cost-effective and scalable solutions.
@@ -24,8 +28,8 @@ Follow these steps to get started with the Cloud Resume Project:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/cloud-resume-project.git
-   cd cloud-resume-project
+   git clone https://github.com/stanner834/Cloud-Resume-Challenge.git
+   cd Cloud-Resume-Challenge
    ```
 
 2. **Set Up AWS Account:**
