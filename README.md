@@ -28,7 +28,7 @@ Follow these steps to get started with the Cloud Resume Project:
 
 1. **Clone the Repository:**
    ```
-   [git clone https://github.com/your-username/cloud-resume-project.git](https://github.com/stanner834/Cloud-Resume-Challenge.git)
+   git clone https://github.com/stanner834/Cloud-Resume-Challenge.git
    cd Cloud-Resume-Challenge
    ```
 
