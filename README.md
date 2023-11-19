@@ -20,8 +20,6 @@ The Cloud Resume Project is a hands-on initiative designed to help individuals b
 
 - **Databases and Storage:** Integrate cloud-based databases (e.g., Amazon DynamoDB) and storage solutions (e.g., Amazon S3) to store and retrieve data efficiently.
 
-- **Custom Domain:** Configure a custom domain for the resume website, demonstrating proficiency in domain management and DNS configuration.
-
 ## Getting Started
 
 Follow these steps to get started with the Cloud Resume Project:
