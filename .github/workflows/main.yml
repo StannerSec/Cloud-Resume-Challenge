@@ -25,4 +25,4 @@ jobs:
           aws s3 sync . s3://cloud-resume-challengest --delete
       - name: Create Cache Invalidation
         run: |
-          aws cloudfront create-invalidation --distribution-id EDN7CFGSQPCYJ --paths "/*"
+          aws cloudfront create-invalidation --distribution-id E1VK73E8KN024Z --paths "/*"
