@@ -24,5 +24,6 @@ jobs:
       run: |
         aws cloudformation deploy \
           --stack-name MyEC2Stack \
-          --template-file C:/Cloud-Resume-Challenge/Infrastructure/website.yml
+          --template-file "C:/Cloud-Resume-Challenge/Infrastructure/website.yml" \
+
           --capabilities CAPABILITY_IAM
