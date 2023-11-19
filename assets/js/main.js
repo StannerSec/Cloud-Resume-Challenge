@@ -52,7 +52,7 @@ const sr = ScrollReveal({
 
 const counter = document.querySelector(".counter-number");
 async function updateCounter() {
-    let response = await fetch("https://prcaij46lzcfehtlq5z7vertzm0sjxeo.lambda-url.us-east-1.on.aws/");
+    let response = await fetch("https://ybelmyucnqmwsoccr5kig3i3bu0eumch.lambda-url.us-east-1.on.aws/");
     let data = await response.json();
     counter.innerHTML = ` Views: ${data}`;
 }
