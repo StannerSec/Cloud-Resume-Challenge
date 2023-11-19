@@ -1,6 +1,8 @@
 import unittest
+import boto3
 from unittest.mock import Mock, patch
-from lambda_function import lambda_handler  # Assuming your Lambda function is in a file named lambda_function.py
+from lambda_func.func import lambda_handler
+  # Assuming your Lambda function is in a file named lambda_function.py
 
 class TestLambdaFunction(unittest.TestCase):
     @patch('boto3.resource')
