@@ -1,3 +1,3 @@
-# Networking-Dojo
+# Cloud Resume Challenge - AWS
 
-Welcome to my Website! More to come.
+This is my completed Cloud Resume Project
