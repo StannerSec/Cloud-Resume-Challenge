@@ -6,7 +6,7 @@ The Cloud Resume Project is a hands-on initiative designed to help individuals b
 
 ## Architecture
 
-![image](https://github.com/stanner834/Cloud-Resume-Challenge/assets/147266927/f2e05bc5-45b5-4a64-8bee-e8ffb0f3fe93)
+![image](https://github.com/stanner834/Cloud-Resume-Challenge/assets/147266927/9718b92f-f96b-45ab-b9c1-caad959d4e89)
 
 ## Features
 
