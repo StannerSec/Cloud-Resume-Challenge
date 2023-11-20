@@ -38,11 +38,18 @@ Follow these steps to get started with the Cloud Resume Project:
    ```
    aws configure
    ```
+4. **Deploy the Infrastructure:**
+   ''' 
 
-4. **Customize Your Resume:**
+   terraform init
+   terraform plan
+   terraform apply
+   '''
+
+5. **Customize Your Resume:**
    Update the resume content in the code to personalize it with your information.
 
-5. **Deploy the Website:**
+6. **Deploy the Website:**
    Trigger the CI/CD pipeline or deploy the website manually to make your resume live.
 
 ## Technologies Used
@@ -52,6 +59,8 @@ Follow these steps to get started with the Cloud Resume Project:
 - AWS CloudFormation
 - Terraform
 - GitHub Actions
+- HTML/CSS/JavaScript
+- Python
 
 ## License
 
