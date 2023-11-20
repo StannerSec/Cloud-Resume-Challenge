@@ -40,7 +40,6 @@ Follow these steps to get started with the Cloud Resume Project:
    ```
 4. **Deploy the Infrastructure:**
    ``` 
-
    terraform init
    terraform plan
    terraform apply
