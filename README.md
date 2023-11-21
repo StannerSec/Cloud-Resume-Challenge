@@ -39,12 +39,11 @@ Follow these steps to get started with the Cloud Resume Project:
    aws configure
    ```
 4. **Deploy the Infrastructure:**
-   ''' 
-
+   ``` 
    terraform init
    terraform plan
    terraform apply
-   '''
+   ```
 
 5. **Customize Your Resume:**
    Update the resume content in the code to personalize it with your information.
