@@ -7,6 +7,6 @@ terraform {
   }
 }
 provider "aws" {
-  profile ="default"
+  profile ="samdev"
   region = "us-west-2"
 }
