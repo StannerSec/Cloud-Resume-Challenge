@@ -45,7 +45,7 @@ window.addEventListener('scroll', scrollActive)
 const sr = ScrollReveal({
     origin: 'top',
     distance: '100px',
-    duration: 1500,
+    duration: 2000,
     delay: 3,
 //     reset: true
 });
