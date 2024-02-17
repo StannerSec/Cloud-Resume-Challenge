@@ -45,7 +45,7 @@ window.addEventListener('scroll', scrollActive)
 const sr = ScrollReveal({
     origin: 'top',
     distance: '60px',
-    duration: 5000,
+    duration: 4000,
     delay: 10,
 //     reset: true
 });
@@ -61,6 +61,6 @@ updateCounter();
 
 
 sr.reveal('.home__data, .about__img, .skills__subtitle, .skills__text',{}); 
-sr.reveal('.home__img, .about__subtitle, .about__text, .skills__img',{delay: 50}); 
+sr.reveal('.home__img, .about__subtitle, .about__text, .skills__img',{delay: 100}); 
 sr.reveal('.home__social-icon',{ interval: 200}); 
-sr.reveal('.skills__data, .work__img, .contact__input',{interval: 25}); 
+sr.reveal('.skills__data, .work__img, .contact__input',{interval: 100}); 
