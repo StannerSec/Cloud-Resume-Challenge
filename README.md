@@ -65,7 +65,7 @@ Follow these steps to get started with the Cloud Resume Project:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## Acknowledgements
 
 Special thanks to the open-source community and contributors for their valuable insights and support in building and improving the Cloud Resume Project.
 
